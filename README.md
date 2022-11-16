@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-![173207216-961fd3fd-3738-4c3a-a626-8bae694d0aac](https://user-images.githubusercontent.com/102328846/202295422-7b1dc8c9-205b-4821-9b7a-642e31c3f22b.gif)
-![173207216-961fd3fd-3738-4c3a-a626-8bae694d0aac](https://user-images.githubusercontent.com/102328846/202295470-c672871b-c0a5-43ac-b9c4-f52874b7358e.gif)
+
+![173207216-961fd3fd-3738-4c3a-a626-8bae694d0aac](https://user-images.githubusercontent.com/102328846/202295554-f0f12f89-ef97-4923-82de-b83f656844df.gif)
