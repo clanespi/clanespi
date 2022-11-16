@@ -13,10 +13,7 @@
 - 👀 I’m interested in Cheats developing, Security, Stealers, Crypters
 - 🌱 I’m currently learning c++, bypassing AV's
 - 📫 Hit me up on discord: Blast3x#7869
-<img src="https://cdn.discordapp.com/emojis/961005750841409586.gif?size=44&quality=lossless">
-<h2 align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/740312549848776766.png">
   
 
 <!---
-Blast3x/Blast3x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+clanespi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
