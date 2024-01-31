@@ -11,7 +11,7 @@
 - 👋 Hi, I’m @clanespi
 - 👀 I’m interested in Cheats developing, Security, Stealers, Crypters
 - 🌱 I’m currently learning c++, bypassing AV's
-- 📫 Hit me up on discord: Blast3x#7869
+- 📫 Hit me up on discord: inso2
   
 
 <!---
